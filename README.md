@@ -81,28 +81,6 @@ approach:
 ## 📊 GITHUB PRESENCE
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdiyos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhamdiyos&theme=tokyonight" alt="Most Used Language" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhamdiyos&theme=tokyonight" alt="Repos per Language" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhamdiyos&theme=tokyonight" alt="Productive Time" />
-
-</div>
-
-<div align="center">
-
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=shubhamdiyos&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="Trophies" />
-
-</div>
-
-<div align="center">
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamdiyos&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=5BCDEC&area=true)
 
