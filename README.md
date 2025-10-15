@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# ◢ SHUBHAM ◣
+#  SHUBHAM 
 
 ### Java Spring Boot Developer
 
